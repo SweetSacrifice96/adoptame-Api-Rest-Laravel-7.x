@@ -1,0 +1,458 @@
+[
+	{	"name" : "Abisinio",
+		"specie" : "Gato"
+	},
+	{	"name" : "American Curl",
+		"specie" : "Gato"
+	},
+	{	"name" : "Angora Turco",
+		"specie" : "Gato"
+	},
+	{	"name" : "Ashera",
+		"specie" : "Gato"
+	},
+	{	"name" : "Azul Cubano",
+		"specie" : "Gato"
+	},
+	{	"name" : "Azul Ruso",
+		"specie" : "Gato"
+	},
+	{	"name" : "Balinés",
+		"specie" : "Gato"
+	},
+	{	"name" : "Bengalí",
+		"specie" : "Gato"
+	},
+	{	"name" : "Birmano",
+		"specie" : "Gato"
+	},
+	{	"name" : "Bobtail Japonés",
+		"specie" : "Gato"
+	},
+	{	"name" : "Bombay",
+		"specie" : "Gato"
+	},
+	{	"name" : "Bosque de Noruega",
+		"specie" : "Gato"
+	},
+	{	"name" : "British Shorthair",
+		"specie" : "Gato"
+	},
+	{	"name" : "Burmés",
+		"specie" : "Gato"
+	},
+	{	"name" : "Burmilla",
+		"specie" : "Gato"
+	},
+	{	"name" : "Cartujo o Chartreaux",
+		"specie" : "Gato"
+	},
+	{	"name" : "Común Europeo",
+		"specie" : "Gato"
+	},
+	{	"name" : "Cornish Rex",
+		"specie" : "Gato"
+	},
+	{	"name" : "Devon Rex",
+		"specie" : "Gato"
+	},
+	{	"name" : "Exótico",
+		"specie" : "Gato"
+	},
+	{	"name" :"Himalayo",
+		"specie" : "Gato"
+	},
+	{	"name" :"Korat",
+		"specie" : "Gato"
+	},
+	{	"name" :"Maine Coon",
+		"specie" : "Gato"
+	},
+	{	"name" :"Manx",
+		"specie" : "Gato"
+	},
+	{	"name" :"Mau Egipcio",
+		"specie" : "Gato"
+	},
+	{	"name" :"Munchkin",
+		"specie" : "Gato"
+	},
+	{	"name" :"Nebelung",
+		"specie" : "Gato"
+	},
+	{	"name" :"Oriental",
+		"specie" : "Gato"
+	},
+	{	"name" :"Persa",
+		"specie" : "Gato"
+	},
+	{	"name" :"Persa Chinchilla",
+		"specie" : "Gato"
+	},
+	{	"name" : "Persa Tabby",
+		"specie" : "Gato"
+	},
+	{	"name" : "Peterbald",
+		"specie" : "Gato"
+	},
+	{	"name" : "Ragamuffin",
+		"specie" : "Gato"
+	},
+	{	"name" : "Ragdoll",
+		"specie" : "Gato"
+	},
+	{	"name" : "Rex",
+		"specie" : "Gato"
+	},
+	{	"name" : "Scottish Fold",
+		"specie" : "Gato"
+	},
+	{	"name" : "Selkirk Rex",
+		"specie" : "Gato"
+	},
+	{	"name" : "Siamés",
+		"specie" : "Gato"
+	},
+	{	"name" : "Siberiano",
+		"specie" : "Gato"
+	},
+	{	"name" : "Snowshoe",
+		"specie" : "Gato"
+	},
+	{	"name" : "Somalí",
+		"specie" : "Gato"
+	},
+	{	"name" : "Sphynx",
+		"specie" : "Gato"
+	},
+	{	"name" : "Van Turco",
+		"specie" : "Gato"
+	},
+	{	"name" : "Airedale Terrier",
+		"specie" : "Perro"
+	},
+	{	"name" : "Akita Inu",
+		"specie" : "Perro"
+	},
+	{	"name" : "Alaskan Malamute",
+		"specie" : "Perro"
+	},
+	{	"name" : "American Cocker Spaniel",
+		"specie" : "Perro"
+	},
+	{	"name" : "American Pit bull Terrier",
+		"specie" : "Perro"
+	},
+	{	"name" : "Australian Terrier",
+		"specie" : "Perro"
+	},
+	{	"name" : "Balkan Hound",
+		"specie" : "Perro"
+	},
+	{	"name" : "Basenji",
+		"specie" : "Perro"
+	},
+	{	"name" : "Basset Hound",
+		"specie" : "Perro"
+	},
+	{	"name" : "Beagle",
+		"specie" : "Perro"
+	},
+	{	"name" : "Bearded Collie",
+		"specie" : "Perro"
+	},
+	{	"name" : "Beauceron",
+		"specie" : "Perro"
+	},
+	{	"name" : "Bichón Habanero",
+		"specie" : "Perro"
+	},
+	{	"name" : "Bichón Maltés",
+		"specie" : "Perro"
+	},
+	{	"name" : "Bloodhound o Perro de San Huberto",
+		"specie" : "Perro"
+	},
+	{	"name" : "Bobtail",
+		"specie" : "Perro"
+	},
+	{	"name" : "Border Terrier",
+		"specie" : "Perro"
+	},
+	{	"name" : "Borzoi",
+		"specie" : "Perro"
+	},
+	{	"name" : "Boston Terrier",
+		"specie" : "Perro"
+	},
+	{	"name" : "Bóxer",
+		"specie" : "Perro"
+	},
+	{	"name" :"Himalayo",
+		"specie" : "Perro"
+	},
+	{	"name" :"Boyero Australiano",
+		"specie" : "Perro"
+	},
+	{	"name" :"Boyero de Flandes",
+		"specie" : "Perro"
+	},
+	{	"name" :"Braco Alemán",
+		"specie" : "Perro"
+	},
+	{	"name" :"Braco Francés",
+		"specie" : "Perro"
+	},
+	{	"name" :"Bretón Español",
+		"specie" : "Perro"
+	},
+	{	"name" :"Bull Terrier",
+		"specie" : "Perro"
+	},
+	{	"name" :"Bulldog Francés",
+		"specie" : "Perro"
+	},
+	{	"name" :"Bulldog Inglés",
+		"specie" : "Perro"
+	},
+	{	"name" :"Bullmastiff",
+		"specie" : "Perro"
+	},
+	{	"name" : "Caniche",
+		"specie" : "Perro"
+	},
+	{	"name" : "Carlino",
+		"specie" : "Perro"
+	},
+	{	"name" : "Chart Polski",
+		"specie" : "Perro"
+	},
+	{	"name" : "Chihuahua",
+		"specie" : "Perro"
+	},
+	{	"name" : "Chin Japonés",
+		"specie" : "Perro"
+	},
+	{	"name" : "Chow chow",
+		"specie" : "Perro"
+	},
+	{	"name" : "Cimarrón Uruguayo",
+		"specie" : "Perro"
+	},
+	{	"name" : "Cocker Spaniel Inglés",
+		"specie" : "Perro"
+	},
+	{	"name" : "Collie",
+		"specie" : "Perro"
+	},
+	{	"name" : "Crestado Chino",
+		"specie" : "Perro"
+	},
+	{	"name" : "Dálmata",
+		"specie" : "Perro"
+	},
+	{	"name" : "Deutsch Drahthaar",
+		"specie" : "Perro"
+	},
+	{	"name" : "Doberman",
+		"specie" : "Perro"
+	},
+	{	"name" :"Dogo Alemán",
+		"specie" : "Perro"
+	},
+	{	"name" : "Dogo Argentino",
+		"specie" : "Perro"
+	},
+	{	"name" : "Dogo de Burdeos",
+		"specie" : "Perro"
+	},
+	{	"name" : "Fila Brasileño",
+		"specie" : "Perro"
+	},
+	{	"name" : "Fox Terrier",
+		"specie" : "Perro"
+	},
+	{	"name" : "Foxhound Inglés",
+		"specie" : "Perro"
+	},
+	{	"name" : "Galgo Español",
+		"specie" : "Perro"
+	},
+	{	"name" : "Golden Retriever",
+		"specie" : "Perro"
+	},
+	{	"name" : "Gos D'Atura",
+		"specie" : "Perro"
+	},
+	{	"name" : "Grifón de Bohemia",
+		"specie" : "Perro"
+	},
+	{	"name" : "Hovawart",
+		"specie" : "Perro"
+	},
+	{	"name" : "Dálmata",
+		"specie" : "Perro"
+	},
+	{	"name" : "Husky Siberiano",
+		"specie" : "Perro"
+	},
+	{	"name" :"Iceland Sheepdog",
+		"specie" : "Perro"
+	},
+	{	"name" :"Irish Wolfhound",
+		"specie" : "Perro"
+	},
+	{	"name" :"Jack Russell Terrier",
+		"specie" : "Perro"
+	},
+	{	"name" :"Kelpie Australiano",
+		"specie" : "Perro"
+	},
+	{	"name" :"Kuvasz",
+		"specie" : "Perro"
+	},
+	{	"name" :"Labrador Retriever",
+		"specie" : "Perro"
+	},
+	{	"name" :"Lebrel Afgano",
+		"specie" : "Perro"
+	},
+	{	"name" :"Lebrel Escocés",
+		"specie" : "Perro"
+	},
+	{	"name" : "Leonberger",
+		"specie" : "Perro"
+	},
+	{	"name" : "Lhasa Apso",
+		"specie" : "Perro"
+	},
+	{	"name" : "Mastín de los Pirineos",
+		"specie" : "Perro"
+	},
+	{	"name" : "Otterhound",
+		"specie" : "Perro"
+	},
+	{	"name" : "Pastor Alemán",
+		"specie" : "Perro"
+	},
+	{	"name" : "Pastor Belga",
+		"specie" : "Perro"
+	},
+	{	"name" : "Pastor Ganadero Australiano",
+		"specie" : "Perro"
+	},
+	{	"name" : "Pastor Garafiano",
+		"specie" : "Perro"
+	},
+	{	"name" : "Papillón",
+		"specie" : "Perro"
+	},
+	{	"name" : "Pequinés",
+		"specie" : "Perro"
+	},
+	{	"name" : "Pembroke Welsh Corgi",
+		"specie" : "Perro"
+	},
+	{	"name" : "Perro de Agua Español",
+		"specie" : "Perro"
+	},
+	{	"name" : "Perro de Agua Francés",
+		"specie" : "Perro"
+	},
+	{	"name" :"Perro sin Pelo Mexicano o Xoloitzcuintle",
+		"specie" : "Perro"
+	},
+	{	"name" : "Perro sin Pelo del Perú",
+		"specie" : "Perro"
+	},
+	{	"name" : "Petit Basset Griffon",
+		"specie" : "Perro"
+	},
+	{	"name" : "Pinscher",
+		"specie" : "Perro"
+	},
+	{	"name" : "Podenco Canario",
+		"specie" : "Perro"
+	},
+	{	"name" : "Podenco Ibicenco",
+		"specie" : "Perro"
+	},
+	{	"name" : "Pointer Inglés",
+		"specie" : "Perro"
+	},
+	{	"name" : "Pomerania",
+		"specie" : "Perro"
+	},
+	{	"name" : "Presa Canario",
+		"specie" : "Perro"
+	},
+	{	"name" : "Puli",
+		"specie" : "Perro"
+	},
+	{	"name" : "Ratón Bodeguero Andaluz",
+		"specie" : "Perro"
+	},
+	{	"name" : "Retriever de pelo rizado",
+		"specie" : "Perro"
+	},
+	{	"name" : "Rottweiler",
+		"specie" : "Perro"
+	},
+	{	"name" :"San Bernardo",
+		"specie" : "Perro"
+	},
+	{	"name" :"Samoyedo",
+		"specie" : "Perro"
+	},
+	{	"name" :"Schnauzer",
+		"specie" : "Perro"
+	},
+	{	"name" :"Scottish Terrier",
+		"specie" : "Perro"
+	},
+	{	"name" :"Setter Irlandés",
+		"specie" : "Perro"
+	},
+	{	"name" :"Shar Pei",
+		"specie" : "Perro"
+	},
+	{	"name" :"Shetland Sheepdog",
+		"specie" : "Perro"
+	},
+	{	"name" :"Shih Tzu",
+		"specie" : "Perro"
+	},
+	{	"name" : "Spinone italiano",
+		"specie" : "Perro"
+	},
+	{	"name" : "Teckel",
+		"specie" : "Perro"
+	},
+	{	"name" : "Terranova",
+		"specie" : "Perro"
+	},
+	{	"name" : "Terrier Australiano",
+		"specie" : "Perro"
+	},
+	{	"name" : "Terrier Checo",
+		"specie" : "Perro"
+	},
+	{	"name" : "Terrier Japonés",
+		"specie" : "Perro"
+	},
+	{	"name" : "Terrier Tibetano",
+		"specie" : "Perro"
+	},
+	{	"name" : "Tosa Inu",
+		"specie" : "Perro"
+	},
+	{	"name" : "Weimaraner",
+		"specie" : "Perro"
+	},
+	{	"name" : "West Highland White Terrier",
+		"specie" : "Perro"
+	},
+	{	"name" : "Yorkshire Terrier",
+		"specie" : "Perro"
+	}
+]
